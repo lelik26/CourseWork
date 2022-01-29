@@ -1,0 +1,4 @@
+# будут игнорироваться системные файлы .DS_Store, Thumbs.db, и  папка .idea.
+*DS_Store
+Thumbs.db
+idea/
